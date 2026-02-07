@@ -1,0 +1,11 @@
+apiVersion: v2
+name: todo-frontend
+description: A Helm chart for Todo Chatbot Frontend
+type: application
+version: 1.0.0
+appVersion: "1.0.0"
+keywords:
+  - todo
+  - chatbot
+  - frontend
+  - react
